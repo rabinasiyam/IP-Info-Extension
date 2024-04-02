@@ -61,7 +61,8 @@
 
 ## Preview Video
 
-[![IP Info Extension Preview](tham.jpg)](https://www.youtube.com/watch?v=-s_lGKDwp4g)
+[![IP Info Extension Preview](tham.png)](https://www.youtube.com/watch?v=-s_lGKDwp4g)
+
 
 Watch the preview video on YouTube: [IP Info Extension Preview](https://www.youtube.com/watch?v=-s_lGKDwp4g)
 
