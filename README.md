@@ -1,6 +1,9 @@
+![Team Logo](logo.png)
+
+
 # 🕵️‍♂️ Website Information Chrome Extension 🕵️‍♀️
 
-![Team Logo](logo.png)
+
 
 ## Overview
 
