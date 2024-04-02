@@ -46,13 +46,13 @@
 
 ## Developer Information
 
-- **Owner**: Black Tiger
-- **Facebook Community**: [Cyber Hand](https://www.facebook.com/cyberhand)
-- **YouTube Channel**: [Black Tiger](https://www.youtube.com/blacktiger)
+- **Owner**: [Black Tiger](https://m.facebook.com/profile.php/?id=100064674614768)
+- **Facebook Community**: [Cyber Hand](https://facebook.com/groups/black.tiger/)
+- **YouTube Channel**: [Black Tiger](https://m.youtube.com/@blacktiger420)
   - Subscribe for more content about Hacking.
-- **GitHub Profile**: [Black Tiger on GitHub](https://github.com/blacktiger)
+- **GitHub Profile**: [Black Tiger on GitHub](https://www.github.com/rabinasiyam/)
   - Follow us for more resources like this.
-- **Direct Support**: Black Tiger
+- **Direct Support**: [Black Tiger] (https://t.me/ProfessionalPy)
   - Feel free to message me for any kind of help or feedback.
 
 ## Screenshots
