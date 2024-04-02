@@ -55,7 +55,7 @@
   - Subscribe for more content about Hacking.
 - **GitHub Profile**: [Black Tiger on GitHub](https://www.github.com/rabinasiyam/)
   - Follow us for more resources like this.
-- **Direct Support**: [Black Tiger] (https://t.me/ProfessionalPy)
+- **Direct Support**: [Black Tiger](https://t.me/ProfessionalPy)
   - Feel free to message me for any kind of help or feedback.
 
 ## Screenshots
